@@ -1,3 +1,2 @@
 # reimagined-octo-winner
-To be defined
-stub readme file.
+working a bit so i can have some fun with the work (test it).
